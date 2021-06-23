@@ -1,5 +1,3 @@
-# sc-projects
-
 ## Project Source Codes
 * [Breakout Game](https://github.com/mcdoul/sc-projects/tree/main/sc-projects/breakout_game)
   * animation & game designing
